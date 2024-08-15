@@ -1,0 +1,7 @@
+C:\Users\borus\source\repos\C# Beginner Projects\Turn_Based_Battle_System\bin\Debug\Turn_Based_Battle_System.exe.config
+C:\Users\borus\source\repos\C# Beginner Projects\Turn_Based_Battle_System\bin\Debug\Turn_Based_Battle_System.exe
+C:\Users\borus\source\repos\C# Beginner Projects\Turn_Based_Battle_System\bin\Debug\Turn_Based_Battle_System.pdb
+C:\Users\borus\source\repos\C# Beginner Projects\Turn_Based_Battle_System\obj\Debug\Turn_Based_Battle_System.csproj.AssemblyReference.cache
+C:\Users\borus\source\repos\C# Beginner Projects\Turn_Based_Battle_System\obj\Debug\Turn_Based_Battle_System.csproj.CoreCompileInputs.cache
+C:\Users\borus\source\repos\C# Beginner Projects\Turn_Based_Battle_System\obj\Debug\Turn_Based_Battle_System.exe
+C:\Users\borus\source\repos\C# Beginner Projects\Turn_Based_Battle_System\obj\Debug\Turn_Based_Battle_System.pdb

@@ -1,0 +1,28 @@
+C:\Users\borus\source\repos\Cafe_study\bin\Debug\net7.0\Cafe_study.exe
+C:\Users\borus\source\repos\Cafe_study\bin\Debug\net7.0\Cafe_study.deps.json
+C:\Users\borus\source\repos\Cafe_study\bin\Debug\net7.0\Cafe_study.runtimeconfig.json
+C:\Users\borus\source\repos\Cafe_study\bin\Debug\net7.0\Cafe_study.dll
+C:\Users\borus\source\repos\Cafe_study\bin\Debug\net7.0\Cafe_study.pdb
+C:\Users\borus\source\repos\Cafe_study\obj\Debug\net7.0\Cafe_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borus\source\repos\Cafe_study\obj\Debug\net7.0\Cafe_study.AssemblyInfoInputs.cache
+C:\Users\borus\source\repos\Cafe_study\obj\Debug\net7.0\Cafe_study.AssemblyInfo.cs
+C:\Users\borus\source\repos\Cafe_study\obj\Debug\net7.0\Cafe_study.csproj.CoreCompileInputs.cache
+C:\Users\borus\source\repos\Cafe_study\obj\Debug\net7.0\Cafe_study.dll
+C:\Users\borus\source\repos\Cafe_study\obj\Debug\net7.0\refint\Cafe_study.dll
+C:\Users\borus\source\repos\Cafe_study\obj\Debug\net7.0\Cafe_study.pdb
+C:\Users\borus\source\repos\Cafe_study\obj\Debug\net7.0\Cafe_study.genruntimeconfig.cache
+C:\Users\borus\source\repos\Cafe_study\obj\Debug\net7.0\ref\Cafe_study.dll
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\bin\Debug\net7.0\Cafe_study.exe
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\bin\Debug\net7.0\Cafe_study.deps.json
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\bin\Debug\net7.0\Cafe_study.runtimeconfig.json
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\bin\Debug\net7.0\Cafe_study.dll
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\bin\Debug\net7.0\Cafe_study.pdb
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\obj\Debug\net7.0\Cafe_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\obj\Debug\net7.0\Cafe_study.AssemblyInfoInputs.cache
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\obj\Debug\net7.0\Cafe_study.AssemblyInfo.cs
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\obj\Debug\net7.0\Cafe_study.csproj.CoreCompileInputs.cache
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\obj\Debug\net7.0\Cafe_study.dll
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\obj\Debug\net7.0\refint\Cafe_study.dll
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\obj\Debug\net7.0\Cafe_study.pdb
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\obj\Debug\net7.0\Cafe_study.genruntimeconfig.cache
+C:\Users\borus\source\repos\C# Beginner Projects\Cafe_study\obj\Debug\net7.0\ref\Cafe_study.dll

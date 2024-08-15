@@ -1,0 +1,7 @@
+C:\Users\borus\source\repos\C# Beginner Projects\ShapeArea\obj\Debug\ShapeArea.csproj.AssemblyReference.cache
+C:\Users\borus\source\repos\C# Beginner Projects\ShapeArea\obj\Debug\ShapeArea.csproj.CoreCompileInputs.cache
+C:\Users\borus\source\repos\C# Beginner Projects\ShapeArea\bin\Debug\ShapeArea.exe.config
+C:\Users\borus\source\repos\C# Beginner Projects\ShapeArea\bin\Debug\ShapeArea.exe
+C:\Users\borus\source\repos\C# Beginner Projects\ShapeArea\bin\Debug\ShapeArea.pdb
+C:\Users\borus\source\repos\C# Beginner Projects\ShapeArea\obj\Debug\ShapeArea.exe
+C:\Users\borus\source\repos\C# Beginner Projects\ShapeArea\obj\Debug\ShapeArea.pdb

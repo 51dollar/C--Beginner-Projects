@@ -1,0 +1,14 @@
+C:\Users\borus\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\borus\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\borus\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\borus\source\repos\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\borus\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\borus\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\borus\source\repos\Calculator\obj\Debug\Calculator.pdb
+C:\Users\borus\source\repos\C# Beginner Projects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\borus\source\repos\C# Beginner Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\borus\source\repos\C# Beginner Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\borus\source\repos\C# Beginner Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\borus\source\repos\C# Beginner Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\borus\source\repos\C# Beginner Projects\Calculator\obj\Debug\Calculator.exe
+C:\Users\borus\source\repos\C# Beginner Projects\Calculator\obj\Debug\Calculator.pdb
