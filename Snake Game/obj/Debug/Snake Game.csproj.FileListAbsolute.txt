@@ -1,7 +1,0 @@
-C:\Users\borus\source\repos\C# Beginner Projects\Snake Game\bin\Debug\Snake Game.exe.config
-C:\Users\borus\source\repos\C# Beginner Projects\Snake Game\bin\Debug\Snake Game.exe
-C:\Users\borus\source\repos\C# Beginner Projects\Snake Game\bin\Debug\Snake Game.pdb
-C:\Users\borus\source\repos\C# Beginner Projects\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
-C:\Users\borus\source\repos\C# Beginner Projects\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
-C:\Users\borus\source\repos\C# Beginner Projects\Snake Game\obj\Debug\Snake Game.exe
-C:\Users\borus\source\repos\C# Beginner Projects\Snake Game\obj\Debug\Snake Game.pdb

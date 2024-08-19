@@ -1,7 +1,0 @@
-C:\Users\borus\source\repos\C# Beginner Projects\CurrencyTempConverter\bin\Debug\CurrencyTempConverter.exe.config
-C:\Users\borus\source\repos\C# Beginner Projects\CurrencyTempConverter\bin\Debug\CurrencyTempConverter.exe
-C:\Users\borus\source\repos\C# Beginner Projects\CurrencyTempConverter\bin\Debug\CurrencyTempConverter.pdb
-C:\Users\borus\source\repos\C# Beginner Projects\CurrencyTempConverter\obj\Debug\CurrencyTempConverter.csproj.AssemblyReference.cache
-C:\Users\borus\source\repos\C# Beginner Projects\CurrencyTempConverter\obj\Debug\CurrencyTempConverter.csproj.CoreCompileInputs.cache
-C:\Users\borus\source\repos\C# Beginner Projects\CurrencyTempConverter\obj\Debug\CurrencyTempConverter.exe
-C:\Users\borus\source\repos\C# Beginner Projects\CurrencyTempConverter\obj\Debug\CurrencyTempConverter.pdb

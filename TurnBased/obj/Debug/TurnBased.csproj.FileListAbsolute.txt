@@ -1,7 +1,0 @@
-C:\Users\borus\source\repos\C# Beginner Projects\TurnBased\bin\Debug\TurnBased.exe.config
-C:\Users\borus\source\repos\C# Beginner Projects\TurnBased\bin\Debug\TurnBased.exe
-C:\Users\borus\source\repos\C# Beginner Projects\TurnBased\bin\Debug\TurnBased.pdb
-C:\Users\borus\source\repos\C# Beginner Projects\TurnBased\obj\Debug\TurnBased.csproj.AssemblyReference.cache
-C:\Users\borus\source\repos\C# Beginner Projects\TurnBased\obj\Debug\TurnBased.csproj.CoreCompileInputs.cache
-C:\Users\borus\source\repos\C# Beginner Projects\TurnBased\obj\Debug\TurnBased.exe
-C:\Users\borus\source\repos\C# Beginner Projects\TurnBased\obj\Debug\TurnBased.pdb

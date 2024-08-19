@@ -1,7 +1,0 @@
-C:\Users\borus\source\repos\C# Beginner Projects\GuessGame\bin\Debug\GuessGame.exe.config
-C:\Users\borus\source\repos\C# Beginner Projects\GuessGame\bin\Debug\GuessGame.exe
-C:\Users\borus\source\repos\C# Beginner Projects\GuessGame\bin\Debug\GuessGame.pdb
-C:\Users\borus\source\repos\C# Beginner Projects\GuessGame\obj\Debug\GuessGame.csproj.AssemblyReference.cache
-C:\Users\borus\source\repos\C# Beginner Projects\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
-C:\Users\borus\source\repos\C# Beginner Projects\GuessGame\obj\Debug\GuessGame.exe
-C:\Users\borus\source\repos\C# Beginner Projects\GuessGame\obj\Debug\GuessGame.pdb

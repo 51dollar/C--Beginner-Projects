@@ -1,7 +1,0 @@
-C:\Users\borus\source\repos\C# Beginner Projects\ToDoListTutorial\bin\Debug\ToDoListTutorial.exe.config
-C:\Users\borus\source\repos\C# Beginner Projects\ToDoListTutorial\bin\Debug\ToDoListTutorial.exe
-C:\Users\borus\source\repos\C# Beginner Projects\ToDoListTutorial\bin\Debug\ToDoListTutorial.pdb
-C:\Users\borus\source\repos\C# Beginner Projects\ToDoListTutorial\obj\Debug\ToDoListTutorial.csproj.AssemblyReference.cache
-C:\Users\borus\source\repos\C# Beginner Projects\ToDoListTutorial\obj\Debug\ToDoListTutorial.csproj.CoreCompileInputs.cache
-C:\Users\borus\source\repos\C# Beginner Projects\ToDoListTutorial\obj\Debug\ToDoListTutorial.exe
-C:\Users\borus\source\repos\C# Beginner Projects\ToDoListTutorial\obj\Debug\ToDoListTutorial.pdb

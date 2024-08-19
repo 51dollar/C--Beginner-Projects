@@ -1,7 +1,0 @@
-C:\Users\borus\source\repos\C# Beginner Projects\Dice_Game\bin\Debug\Dice_Game.exe.config
-C:\Users\borus\source\repos\C# Beginner Projects\Dice_Game\bin\Debug\Dice_Game.exe
-C:\Users\borus\source\repos\C# Beginner Projects\Dice_Game\bin\Debug\Dice_Game.pdb
-C:\Users\borus\source\repos\C# Beginner Projects\Dice_Game\obj\Debug\Dice_Game.csproj.AssemblyReference.cache
-C:\Users\borus\source\repos\C# Beginner Projects\Dice_Game\obj\Debug\Dice_Game.csproj.CoreCompileInputs.cache
-C:\Users\borus\source\repos\C# Beginner Projects\Dice_Game\obj\Debug\Dice_Game.exe
-C:\Users\borus\source\repos\C# Beginner Projects\Dice_Game\obj\Debug\Dice_Game.pdb
