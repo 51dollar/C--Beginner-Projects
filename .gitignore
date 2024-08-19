@@ -57,3 +57,6 @@ bld/
 *.json
 *.AssemblyInfo.cs
 *.editorconfig
+*.csproj
+*.sln
+*.config
